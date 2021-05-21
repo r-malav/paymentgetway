@@ -28,7 +28,7 @@ class _MyHomePageState extends State<MyHomePage> {
 
   void openCheckout() async {
     var options = {
-      'key': 'rzp_test_OtP73CMdE7qCaP',
+      'key': 'rzp_test_69FaAnXB1tXP7t',
       'amount': num.parse(textEditingController.text)*100,
       'name': 'BidAnd2Win',
       'description': 'Buying Bid to play game',
